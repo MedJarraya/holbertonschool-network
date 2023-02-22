@@ -1,14 +1,2 @@
-#!/usr/bin/env bash
-## What is the OSI model & How is the OSI model organized
-The OSI (Open Systems Interconnection) model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology. It is a standard reference model for communication between two end users in a network.
-
-The OSI model is organized from the lowest to the highest level, with each layer building upon the functionality of the layer below it. The seven layers are:
-
-Physical Layer
-Data Link Layer
-Network Layer
-Transport Layer
-Session Layer
-Presentation Layer
-Application Layer
-The lowest level is layer 1, which is responsible for transmission on physical layers with electrical impulse, light, or radio signals. The highest level is layer 7, which is responsible for application-specific communication, like SNMP for emails, HTTP for web browsers, etc. It is important to note that the OSI model is a conceptual framework and not a tangible system, and it does not perform any functions in the networking process.
+2
+2
